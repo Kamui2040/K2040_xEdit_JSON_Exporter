@@ -1,0 +1,22 @@
+# Generated exports
+Exports/
+exports/
+*.json
+!examples/**/*.json
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+# Packages
+*.zip
+*.7z
+*.rar
+
+# Editor/system
+.vscode/
+.idea/
+*.user
+Thumbs.db
+desktop.ini
